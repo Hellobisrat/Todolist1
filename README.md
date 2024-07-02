@@ -36,7 +36,7 @@ listContainer.innerHTML =localStorage.getItem('data')
 
 the final page look like this
 
-<img src='images/final picture.jpg'>
+<img src='./images/finalPage.png'/>
 
 # Bisrat Mengesha
 
